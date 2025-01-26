@@ -8,4 +8,8 @@ huhuhu!
 
 Und etzat no a scheens Buidl:
 
-![7bc1423534e7548c](media/7bc1423534e7548c.png)
+![7bc1423534e7548c](../../images/7bc1423534e7548c.png)
+
+und no aans:
+
+![imgp__90](../../images/imgp__90.jpg)
